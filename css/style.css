@@ -36,7 +36,11 @@ main div{
     width: 85%;
     margin: 10px 7.5%;
 }
-#first img{
+section{
+    width: 85%;
+    margin: 10px 7.5%;
+}
+section img{
     
    width: 28.333;
    margin-right: 26px;
