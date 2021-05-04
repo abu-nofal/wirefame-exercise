@@ -68,8 +68,9 @@ h3{
 }
 p{
     float: left;
-    height: 120px;
+    height: 180px;
     width: 40%;
+    overflow: scroll;
   
 }
 main article a {
